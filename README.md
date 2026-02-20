@@ -1,5 +1,11 @@
 
-# Authentication API Documentation
+# Authentication Form
+
+## Database Schema Design
+
+![db-schema](images/auth_form_schema.png)
+
+## API Documentation
 
 ## Base URL
 ```
