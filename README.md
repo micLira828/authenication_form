@@ -1,6 +1,14 @@
 
 # Authentication Form
 
+A responsive authentication form built with HTML and CSS Flexbox.
+
+## Skills Used
+- Flexbox layout
+- Nested containers
+- Alignment
+- Spacing systems
+
 ## Database Schema Design
 
 ![db-schema](images/auth_form_schema.png)
