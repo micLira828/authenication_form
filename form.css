@@ -1,0 +1,21 @@
+body{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-column{
+  display:flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-column{
+  flex:3;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+}
