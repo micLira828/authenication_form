@@ -10,11 +10,34 @@ body{
   flex: 1;
   align-items: center;
   justify-content: center;
-  background-image: url('images/halie-west.jpg');
-  background-position: center center;
+  background: url('images/halie-west.jpg') center ;
+  background-repeat: no-repeat;
   height: 100vh;
-  object-fit: cover;
+  background-size: cover;
 }
+
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  background-color: #006;
+  opacity: 0.75;
+  width: 80%;
+  max-width: 28rem;
+  height: 8rem;
+  opacity: 0.75;
+  z-index: 1;
+ 
+}
+
+.logo img{
+    height: 6rem;
+    width: auto;
+    display: block;
+}
+
+
 
 .form-column{
   flex:3;
