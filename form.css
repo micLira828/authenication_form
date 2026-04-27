@@ -2,6 +2,7 @@ body{
   display:flex;
   align-items: center;
   justify-content: center;
+ 
 }
 
 .image-column{
@@ -9,6 +10,10 @@ body{
   flex: 1;
   align-items: center;
   justify-content: center;
+  background-image: url('images/halie-west.jpg');
+  background-position: center center;
+  height: 100vh;
+  object-fit: cover;
 }
 
 .form-column{
