@@ -71,6 +71,6 @@ desc-row p{
   max-width: 520px;
 }
 form{
-  display: grid;
-  grid-template-columns: auto auto;
+  display: flex;
+  flex: 2;
 }
